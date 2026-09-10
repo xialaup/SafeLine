@@ -8,7 +8,7 @@
 
 <p align="center">
   <a target="_blank" href="https://waf-ce.chaitin.cn/">🏠 官网</a> &nbsp; | &nbsp;
-  <a target="_blank" href="https://docs.waf-ce.chaitin.cn/">📖 文档</a> &nbsp; | &nbsp;
+  <a target="_blank" href="https://help.waf-ce.chaitin.cn/node/01973fe5-27fa-7534-a1be-b6de019cfdab">📖 文档</a> &nbsp; | &nbsp;
   <a target="_blank" href="https://demo.waf-ce.chaitin.cn:9443/">🔍 演示环境</a> &nbsp; | &nbsp;
   <a target="_blank" href="/images/wechat.png">🙋‍♂️ 社区微信群</a> &nbsp; | &nbsp;
   <a target="_blank" href="https://github.com/chaitin/SafeLine">国际版</a>
@@ -90,11 +90,11 @@ SafeLine，中文名 "雷池"，是一款简单好用, 效果突出的 **`Web �
 
 #### 📦 安装
 
-查看 [安装雷池](https://docs.waf-ce.chaitin.cn/zh/%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97/%E5%AE%89%E8%A3%85%E9%9B%B7%E6%B1%A0)
+查看 [安装雷池](https://help.waf-ce.chaitin.cn/node/01973fc6-df0f-7650-bafa-8ed8d2fc2bc1)
 
 #### ⚙️ 配置防护站点
 
-查看 [快速配置](https://docs.waf-ce.chaitin.cn/zh/%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97/%E5%BF%AB%E9%80%9F%E9%85%8D%E7%BD%AE)
+查看 [快速配置](https://help.waf-ce.chaitin.cn/node/01973fc6-e14a-7234-8acd-bdba21c8b3f3)
 
 ## 📋 更多信息
 
